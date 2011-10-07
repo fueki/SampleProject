@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, IndividualJoJoLineActivity!</string>
+    <string name="app_name">IndividualJoJoLine</string>
+    <string name="empty">データがありません</string>
+    <string name="araki">荒木飛呂彦</string>
+    <string name="araki_st">不明</string>
+    <string name="jonasan">ジョナサン･ジョースター</string>
+    <string name="jonasan_st">波紋</string>
+    <string name="josef">ジョセフ・ジョースター</string>
+    <string name="josef_st">ハーミット・パープル（隠者の紫）</string>
+    <string name="joutarou">空条承太郎</string>
+    <string name="joutarou_st">スタープラチナ（星の白金）</string>
+    <string name="jousuke">東方仗助</string>
+    <string name="jousuke_st">クレイジー・ダイヤモンド</string>
+    <string name="joruno">ジョルノ・ジョバァーナ</string>
+    <string name="joruno_st">ゴールド・エクスペリエンス（黄金体験）</string>
+    <string name="jorin">空条徐倫</string>
+    <string name="jorin_st">ストーン・フリー</string>
+    <string name="speed">ロバート・E・O・スピードワゴン</string>
+    <string name="speed_st">シルクハット</string>
+    <string name="shutoro">ルドル・フォン・シュトロハイム</string>
+    <string name="shutoro_st">ドイツ軍人</string>
+    <string name="kakyouin">花京院典明</string>
+    <string name="kakyouin_st">ハイエロファントグリーン（法皇の緑）</string>
+    <string name="porunarefu">ジャン＝ピエール・ポルナレフ</string>
+    <string name="porunarefu_st">シルバー・チャリオッツ（銀の戦車）</string>
+    <string name="dio">ディオ･ブランドー</string>
+    <string name="dio_st">ザ・ワールド（世界）</string>
+    <string name="kira">吉良吉影</string>
+    <string name="kira_st">キラークイーン</string>
+    <string name="okuyasu">虹村億泰</string>
+    <string name="okuyasu_st">ザ・ハンド</string>
+    <string name="rohan">岸辺露伴</string>
+    <string name="rohan_st">ヘブンズ・ドアー（天国への扉）</string>
+    <string name="butya">ブローノ・ブチャラティ</string>
+    <string name="butya_st">スティッキィ・フィンガーズ</string>
+    <string name="misuta">グイード・ミスタ</string>
+    <string name="misuta_st">セックス・ピストルズ</string>
+    <string name="puroshu">プロシュート</string>
+    <string name="puroshu_st">ザ・グレイトフル・デッド（偉大なる死）</string>
+    <string name="ff">F・F（フー・ファイターズ）</string>
+    <string name="ff_st">フー・ファイターズ</string>
+    <string name="anasui">ナルシソ・アナスイ</string>
+    <string name="anasui_st">ダイバー・ダウン</string>
+</resources>

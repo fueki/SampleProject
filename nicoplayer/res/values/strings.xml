@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_item_mylist">マイリスト:</string>
+    <string name="video_item_comment">コメント:</string>
+    <string name="video_item_play">再生:</string>
+    <string name="account_pass">パスワード</string>
+    <string name="account_email">メールアドレス</string>
+    <string name="splash_text02">forAndroid</string>
+    <string name="splash_text01">ニコニコプレーヤ</string>
+    <string name="hello">Hello World, Splash!</string>
+    <string name="app_name">nicoplayer</string>
+<string name="activity_name_splash">にこぷれーや。</string>
+<string name="activity_name_video_list">動画リスト</string>
+<string name="activity_name_account">アカウントの設定</string>
+<string name="logintask_noconfig">nicoPlayerへようこそ。\nはじめにアカウントの設定をしてください。</string>
+<string name="logintask_loginfailed">ログインに失敗しました。アカウントを確認してください。</string>
+<string name="logintask_account_dialog_title">ログイン</string>
+</resources>

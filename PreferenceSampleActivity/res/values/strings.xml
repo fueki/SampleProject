@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PreferenceActivity!</string>
+    <string name="app_name">SharedPreferenceTest</string>
+    <string name="boolean_title">設定(CheckBox)</string>
+    <string name="boolean_summary">チェックボックによる設定情報</string>
+    <string name="string_title">設定(EditText)</string>
+    <string name="string_summary">テキスト入力による設定情報</string>
+</resources>

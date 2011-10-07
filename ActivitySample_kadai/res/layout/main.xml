@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<EditText
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:id="@+id/edit_message"
+		android:hint="入力してください"></EditText>
+	<Button
+		android:text="@string/next"
+		android:id="@+id/button_next"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:onClick="onClickNextButton"></Button>
+	<Button
+		android:id="@+id/button1"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:text="@string/next2"
+		android:onClick="onClickNextButton2"></Button>
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+        android:textSize="20dp"
+		android:id="@+id/text_from_activity"></TextView>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_resultcode"></TextView>
+    <TextView
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_requestcode"></TextView>
+</LinearLayout>

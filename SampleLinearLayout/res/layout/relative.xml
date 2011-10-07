@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_height="fill_parent" android:layout_width="fill_parent" android:padding="80px">
+        <Button android:layout_alignParentLeft="true" android:id="@+id/center" android:text="@string/center" android:layout_centerInParent="true" android:layout_width="50px" android:layout_height="50px"></Button>
+        <Button android:id="@+id/under" android:text="@string/under" android:layout_alignLeft="@+id/center" android:layout_centerInParent="true" android:layout_width="50px" android:layout_height="50px" android:layout_alignRight="@+id/center" android:layout_below="@+id/center"></Button>
+        <Button android:id="@+id/avobe" android:layout_width="50px" android:layout_height="50px" android:layout_above="@+id/center" android:layout_alignLeft="@+id/center" android:text="@string/avobe"></Button>
+    </RelativeLayout>
+</LinearLayout>

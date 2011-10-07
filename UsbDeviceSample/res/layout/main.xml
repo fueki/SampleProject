@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/editText1"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine">
+        <requestFocus></requestFocus>
+    </EditText>
+    <Button
+        android:id="@+id/button1"
+        android:onClick="onClickDataButton"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="/data/data"></Button>
+    <Button
+        android:id="@+id/button2"
+        android:onClick="onClickSDcardButton"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="SDCard"></Button>
+    <Button
+        android:id="@+id/button3"
+        android:onClick="onClickUsbButton"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="USB"></Button>
+    <Button
+        android:id="@+id/button4"
+        android:onClick="onClicGetDeviceButton"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="get device"></Button>
+    <Button
+        android:id="@+id/button4"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:onClick="onClickGetUsbStrageMount" android:text="get usbstrageMount"></Button>
+    <Button android:id="@+id/button5" android:layout_height="wrap_content" android:layout_width="match_parent" android:onClick="onClickGetUsbStrageUnMount" android:text="get usbstrageUnMount"></Button>
+
+</LinearLayout>

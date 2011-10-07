@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WebViewInOutActivity!</string>
+    <string name="app_name">WebViewInOut</string>
+    <string name="add">msn</string>
+    <string name="add2">mac</string>
+    <string name="add3">SRWare Iron</string>
+</resources>

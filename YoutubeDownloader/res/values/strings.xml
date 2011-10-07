@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">YoutubeDownloader</string>
+<string name="go_to_list_page_button_label">Search</string>
+<string name="empty_textview_label">Please wait.</string>
+<string name="dialog_tilte">ダウンロードしますか？</string>
+<string name="download_notification_toast_end_text">ダウンロードが終了しました</string>
+<string name="download_notification_toast_start_text">ダウンロードを開始しました</string>
+<string name="play_message">再生しますか？</string>
+</resources>

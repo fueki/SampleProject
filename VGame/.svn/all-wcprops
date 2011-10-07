@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/297/trunk/Vanguard/VanguardGame
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/295/trunk/Vanguard/VanguardGame/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/295/trunk/Vanguard/VanguardGame/AndroidManifest.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/295/trunk/Vanguard/VanguardGame/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/295/trunk/Vanguard/VanguardGame/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/295/trunk/Vanguard/VanguardGame/.classpath
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/283/trunk/TigerAndDragon/TandD/res/layout
+END
+xmltest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/265/trunk/TigerAndDragon/TandD/res/layout/xmltest.xml
+END
+list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/283/trunk/TigerAndDragon/TandD/res/layout/list_row.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/257/trunk/TigerAndDragon/TandD/res/layout/main.xml
+END
+list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/266/trunk/TigerAndDragon/TandD/res/layout/list.xml
+END
+detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/283/trunk/TigerAndDragon/TandD/res/layout/detail.xml
+END

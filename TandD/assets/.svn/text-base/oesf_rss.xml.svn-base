@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open Embedded Software Foundation</title>
+    <link>http://www.oesf.jp/</link>
+    <description></description>
+    <lastBuildDate>Fri, 03 Sep 2010 21:29:25 +0000</lastBuildDate>
+    <docs>http://backend.userland.com/rss/</docs>
+    <generator>XOOPS</generator>
+    <category>News</category>
+    <managingEditor>admin@oesf.jp</managingEditor>
+    <webMaster>admin@oesf.jp</webMaster>
+    <language>ja</language>
+
+        <image>
+      <title>Open Embedded Software Foundation</title>
+      <url>http://www.oesf.jp/images/logo.gif</url>
+      <link>http://www.oesf.jp/</link>
+      <width>144</width>
+      <height>100</height>
+    </image>
+    
+        <item>
+      <title>OESFが組込み向けAndroidの第2弾―独自マーケットプレイスの構築も容易に</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=158</link>
+      <description>9月1日にOESFが発表した、組込み向けAndroid&amp;trade;の第2弾、Embedded Master 2関連の記事が、以下のニュースサイトに掲載されています。
+是非、ご覧ください。
+
+日本
+http://businessnetwork.jp/Detail/tabid/65/artid/563/Default.aspx
+http://techon.nikkeibp.co.jp/article/NEWS/20100902/185396/
+
+韓国
+http://www.acrofan.com/ko-kr/live/news/?mode=view&amp;cate=03&amp;seq=14194&amp;wd=20100901&amp;ucode=00000011
+上記サイトの日本語版
+http://translate.google.com/translate?u=http://www.acrofan.com/ko-kr/live/news/index.html%3Fmode%3Dview%26cate%3D03%26seq%3D14194%26wd%3D20100901%26ucode%3D00000011&amp;hl=ko&amp;ie=UTF8&amp;sl=ko&amp;tl=ja</description>
+      <pubDate>Thu, 02 Sep 2010 09:00:00 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=158</guid>
+      <category>メディア掲載</category>
+          </item>
+        <item>
+      <title>Embedded Master 2（Cinnamon)のリリース</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=157</link>
+      <description>報道関係者各位　　　　　　　　　　　　　　　　　　　　　　　　                                      2010年9月1日
+プレスリリース　
+------------------------------------------------------------------------
+Embedded Master 2（Cinnamon)のリリース
+〜組込みシステム向けAndroidを10月末にリリース〜
+------------------------------------------------------------------------
+
+Android™の組込みシステムへの普及・開発を促進する団体、一般社団法人Open Embedded Software Foundation（以下OESFとする）（所在地：東京都新宿区　代表理事：三浦雅孝）は、急速に拡大するAndroid™をベースとした、組込みシステム向けディストリビューションパッケージEmbedded Masterを開発しています。このたび、その第2弾Embedded Master 2（Project Code:Cinnamon)を10月末から、一般公開することを発表いたします。
+Embedded Master 2は各種の組込みシステムでAndroidを利用して頂くため、OESF Platform Builderを搭載しました。Androidの公開ソースコードは既に数千万行にも及ぶ、巨大なソフトウェアとなり、これを特定の機器に移植するためには、不要なモジュールの削除、独自モジュールの追加など、非常に多くの工数を必要とします。OESF Platform Builderはこれらの作業を非常に効率よく実現するための、フレームワークを提供します。Androidの標準開発環境であるEclipseのプラグインにより、GUI環境から、これらの操作を可能にします。OESFでの実測値では、最小構成のAndroidを作成すると、最大構成のAndroidに比べて４０％以下のイメージサイズでのAndroid環境を実現できました。この最小構成AndroidをLight Weight Androidと呼んでいます。この最小構成に、ユーザー毎に必要なコンポーネントやアプリケーションを簡単に追加し、目的のシステムを容易に構築できる環境となります。
+Embedded Master 2では、多くのサービスがAndroidに対応することが期待される中、独自にマーケットプレイスを構築できるMarket Place SDKも標準搭載いたします。これにより、スマートフォンだけではなく、今後の各種Android端末に向けて、容易にマーケットプレイスサービスが構築できます。
+なお、9月末からは一般公開に先駆け、OESF会員への公開を開始します。また、最新のデモンストレーションを9月3日に開催されるEDA Tech Forumにて行います。
+OESFではこのEM2をベースとして、順次各種拡張モジュールを公開していく予定です。さらに、今後急速に普及が見込まれるAndroid MID（Multimedia Internet Device)に対する、互換性定義仕様（Compatibility Definition Document)や推奨モデル仕様（Reference Model  Specification）の公開も同時期に行ってまいります。今後は、これらの仕様に基づき、テストおよび、認定のフレームワークの開発/推進を行っていく計画です。
+今後は、Androidの最新バージョン（Version2.2：Froyo)への対応（Project Code:Durian)、ドキュメントの充実、メンテナンス体制の拡充、他のオープンソースソフトウェア（OSS)コミュニティとの連携等、Androidの組込みシステムへの普及に向けて更なる活動の強化を図ってまいります。
+
+■Embedded Master 2について
+公開時期	:	2010年10月末を予定
+Project Code	:	Cinnamon
+Android Version	:	Version 2.0
+公開サイト	:	http://github.com/OESF/Embedded-Master 
+
+■EDA Tech Forumでのデモ公開について
+開催日		:	2010年9月3日（金）
+会場		:	東京ミッドタウンホール
+URL		:	http://www.edatechforum.jp/ 
+EM2のデモは、会場内デモコーナーにて随時行っております。
+OESFスタッフが取材の対応をさせていただきますので、是非お越しください。
+
+■ 一般社団法人Open Embed Software Foundation について
+Open Handset Alliance のオープンソースプロジェクトであるAndroid™  をベースとした組込みシステムの開発、構築等の事業に携わる企業により組織され、会員企業間での技術情報の共有、ベースとなるシステムの共同開発、技術者の育成、組込み市場に対する共同マーケティング等を通じて、市場の発展と、各会員の事業の拡大を目指し組織された。詳細情報はホームページhttp://www.oesf.jp/ まで。
+
+■本件の連絡先
+一般社団法人Open Embedded Software Foundation
+東京都新宿区西新宿五丁目7番5号　アインパール1階
+TEL:03-6276-4444　
+FAX:03-6276-3724
+E-mail:office@oesf.jp
+
+
+このプレスリリースに記載されている会社名、製品名は、各社の登録商標または商標です。
+
+
+日本語版ファイル　ダウンロードはこちらから
+Korean version　Download from here
+Simplified Chinese version　Download from here</description>
+      <pubDate>Thu, 02 Sep 2010 07:42:03 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=157</guid>
+      <category>ニュースリリース</category>
+          </item>
+        <item>
+      <title>ARM IQマガジン　Android特集</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=156</link>
+      <description>ARMが発刊するIQマガジンでAndroid&amp;trade;が特集されました。多くの興味深い記事が掲載されています。PDF版が自由にダウンロード可能ですので、是非お読みください。
+http://www.iqmagazineonline.com/current/?rid=11
+
+なお、11月に発刊される日本語版IQマガジンでは、OESFの取材インタビューをはじめ、英語版の翻訳記事等、多くのAndroid&amp;trade;関連の記事が掲載される予定です。お楽しみに。
+なお、購読のお申込は以下のサイトから可能です。
+http://www.jp.arm.com/document/magazine/iq.html</description>
+      <pubDate>Tue, 31 Aug 2010 09:55:28 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=156</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>【株式会社ナノコネクト】Android講演会in京都を開催</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=155</link>
+      <description>OESF会員の株式会社ナノコネクトが以下のセミナーを開催いたします。
+是非ご参加ください。
+
+
+■タイトル：
+Android講演会in京都　〜Androidが広げる組込みの未来〜
+
+■概　要：
+来る2010年9月3日、京都で無料講演会
+「Android講演会in京都　〜Androidが広げる組込みの未来〜」を開催。
+これからのAndroidと組込み業界の未来について、複数の企業代表者に講演して頂きます。
+http://www.nanoconnect.co.jp/action/event/2010/
+
+講演者には、株式会社エヌ・ティ・ティ・ドコモ スマートフォン事業推進室技術推進担当部長 武田 出様と、OESF System Core WorkingGroup コーディネータとしてご活躍されている株式会社アットマークテクノ代表取締役 実吉 智裕様、日本Androidの会の関西支部支部長でもある株式会社ブリリアントサービス代表取締役
+杉本 礼彦様をお呼びし、株式会社ナノコネクト代表取締役CEO 木島 貴志の4名を予定しております。
+
+■日　時：
+2010年9月3日（金）13：00〜17：00
+
+■場　所：
+京都リサーチパーク 西地区 4号館ルーム1
+ JR嵯峨野線丹波口駅から徒歩5分
+■参加費：
+無料
+
+■主催：
+株式会社ナノコネクト
+http://www.nanoconnect.co.jp/
+
+■スケジュール：
+13:30〜14:10　「ドコモのスマートフォン戦略とビジネス利用について(仮)」
+武田 出 様（株式会社エヌ・ティ・ティ・ドコモ）
+
+14:15〜14:55　「Androidを組込み機器に搭載する際の課題と開発手法
+〜携帯電話から様々な組込み機器へ〜」
+実吉 智裕 様（株式会社アットマークテクノ）
+
+15:00〜15:40　「安いと言われているAndroidってホンマ？」
+杉本 礼彦 様（株式会社ブリリアントサービス）
+
+15:45〜16:25　「Androidをビジネス展開をしていく為に有効な手段」
+木島 貴志 （弊社-株式会社ナノコネクト）
+
+※その後、名刺交換会
+※内容につきましては、変更になる場合がございます。
+あらかじめご了承下さい。
+
+■講演会の詳細・参加申込みページ
+http://www.nanoconnect.co.jp/action/event/2010/
+こちらよりご予約受け付けております。</description>
+      <pubDate>Thu, 26 Aug 2010 16:06:13 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=155</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>認定トレーニングコースが開催場所を拡大</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=154</link>
+      <description>現在、新横浜での開催に限られていた、OESF認定トレーニングコースが東京銀座会場でも９月から受講が可能になります。
+新たにチャンスラボ株式会社（場所：東京銀座）にて「」Androidアプリケーション開発入門」コースがスタートします。
+
+全開催日程は
+http://www.oesf.jp/modules/training/index.php?content_id=6
+をご参照ください。
+
+また、チャンスラボ株式会社での開催トレーニングコースに関しては、
+http://www.chancelab.jp/service/training/index.html
+をご覧ください。
+
+OESFでは今後とも開催会場を全国に拡大し、Android技術者の育成に貢献してまいります。</description>
+      <pubDate>Wed, 18 Aug 2010 16:06:52 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=154</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>「Android Has Arrived!」投稿レポート</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=153</link>
+      <description>「Android Has Arrived!」と題したAndroid市場レポートが投稿されました。是非お読みください。
+http://www.oesf.jp/modules/activity/index.php?content_id=17#AndroidHasArrived</description>
+      <pubDate>Sat, 07 Aug 2010 15:19:32 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=153</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>【株式会社べりサーブ】「コスト削減に向けた品質検証 〜問われるQCDの最適化〜」　セミナー開催</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=152</link>
+      <description>OESF会員の株式会社べりサーブは、9月3日（金）に「コスト削減に向けた品質検証 〜問われるQCDの最適化〜」と題して、セミナーを開催します。OESF代表も「Androidがもたらす組込み市場革命」と題して登壇いたします。
+ぜひ皆さんご参加ください。
+
+===============================================================
+
+謹啓
+
+貴社ますますご清祥のこととお慶び申し上げます。
+平素は格別のご高配を賜りまして、誠にありがたく厚く御礼申し上げます。
+
+弊社が毎年開催しております検証に関するセミナーも今年で10回目を迎えることができました。
+これは、ひとえにシステム（製品、アプリケーション）の開発・検証・評価に携わっておられる皆様に多くのご興味をお持ち頂けている証左と考えております。
+
+ものづくりを取り巻く環境の変化の中、製品の低価格化や開発サイクルの短期化など、より効率的で高い品質管理が求められています。
+今回は「コスト削減に向けた品質検証 〜問われるQCDの最適化〜」と題して新製品開発にかかわる方々の取り組みを中心としたセッションを予定しております。
+また、第三者検証という立場から、品質向上にどのように取り組むかもご紹介させていただき、あわせて業界動向などもお伝えできればと考えております。
+
+ご参加いただく皆様にとってより一層有意義なセミナーになるものと確信しております。
+ご多用中とは存じますが、お誘いあわせの上、是非ご参加頂きたくお願い申し上げます。
+
+謹白
+
+詳細/お申込は
+http://www.veriserve.co.jp/seminar2010/</description>
+      <pubDate>Fri, 23 Jul 2010 01:13:01 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=152</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>『組込みAndroid技術動向レポート2010』発売</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=151</link>
+      <description>OESF監修の『組込みAndroid技術動向レポート2010』が発売されました。
+本レポートは、一般社団法人Open Embedded Software Foundation監修のもと、日本で初めて体系的な組込みAndroidの実践的な活用の視点から、技術動向を解説しています。さらに、Androidを組み込んだ製品がなぜ価値を生むのか、新しい可能性を拓くのかなど、次世代のビジネス機会をとらえながら、市場動向やビジネス動向も含めてダイナミックな解説を行っています。
+是非、ご購入ください。
+
+■ ニュースリリース
+http://www.impressrd.jp/news/100708/em_android
+
+■ 販売ページ
+http://r.impressrd.jp/iil/em_android2010
+
+■ アマゾン
+http://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BFAndroid%E6%8A%80%E8%A1%93%E5%8B%95%E5%90%91%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882010-%E7%A6%8F%E7%94%B0%E6%98%8C%E5%BC%98/dp/B003UTUH9C/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1279512039&amp;sr=1-1</description>
+      <pubDate>Mon, 19 Jul 2010 14:56:46 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=151</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>【DSP Group, Inc.】Android(R)コネクテッド マルチメディア ホーム ターミナル カンファレンス開催</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=149</link>
+      <description>
+
+
+
+
+
+OESF会員の：DSP Group, Inc. / 日本DSP ｸﾞﾙｰﾌﾟ(株)は以下のセミナーを開催します。OESFも協賛/後援として登壇いたします。
+
+DSP Group が提供するAndroid(R)搭載 コネクテッド ホーム ターミナル ソリューション プラットフォームについて詳述されます。このカンファレンス開催により、Android(R)オープン プラットホーム フレームワーク搭載のコネクテッド ホーム ターミナル機器が､益々市場に拡大普及する事を切に望みます。DSP Group では、 Android(R)OS 搭載の「Cordless Phone」「Media Phone」「Universal Remote　Controller」及び「Internet Radio」等の最終製品にフォーカスしています。ボイス、ビデオ、オーディオ/データ処理を統合する、DSP Group のWiFi/DECT 無線搭載のXpandR (エキスパンダ)チップセットとAndroid(R)オープン プラットフォーム/アプリケーションを組合せる事で、革新的なマルチメディア ホーム ターミナル製品を高いコスト効率で迅速に開発し､コンスーマ エレクトロニクス市場への投入が可能となります。
+コードレス電話/VoIP 電話にご興味のある企業様、DSP Group 社製品にご興味のある企業様、Android(R)搭載コネクテッド ホーム ターミナル製品の設計開発をご検討中の企業様、奮ってご参加下さい。
+
+日時: 2010 年8 月26 日(木)
+10:00-16:30 (ｶﾝﾌｧﾚﾝｽ) &amp; 17:00-18:30 (懇親会)
+会場: 秋葉原UDX4F UDX ギャラリー
+
+詳しくは以下のページをご参照ください。
+http://www.dspg.com/conference2010tokyo
+
+開催案内および参加申込書等は以下のページからダウンロードできます。
+http://www.oesf.jp/modules/download/index.php?cid=13</description>
+      <pubDate>Tue, 13 Jul 2010 23:21:31 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=149</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>OESFがEDA Tech Forumで講演・デモ出展（Embedded Master 2 を公開）</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=150</link>
+      <description>
+
+EDA業界の最新テクノロジを紹介するワールドワイド・イベント「EDA Tech Forum 2010」において、OESFは「Androidがもたらす組込み市場革命 〜Androidの可能性〜」と題して講演を行います。
+なお、講演ではOESFが開発を行っている組込み向けAndroid　Embedded Master 2(Codename:Cinnamon)を初めて公開すると同時に、今後のマイルストーンも発表する予定です。
+デモ会場では、実際にご覧いただけるデモも予定しております。OESFが提供する組込みシステム向けAndroidの世界をご体験ください。
+
+Androidによる組込みシステム開発にご興味をお持ちの方には必見のコンファレンスです。
+是非、ご参加ください。
+
+トップページ
+http://www.edatechforum.jp/
+
+トラック案内
+http://www.edatechforum.jp/track/index.html
+
+参加申込
+https://edat10.smartseminar.jp/public/application/add/31
+
+OESFのトラックは混雑が予想されますので、お早めにお申込ください。
+
+なお、このフォーラムはOESF会員である、MentorGraphics様、およびARM様がスポンサーとして参加されています。</description>
+      <pubDate>Fri, 09 Jul 2010 09:27:42 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=150</guid>
+      <category>イベント</category>
+          </item>
+      </channel>
+</rss>

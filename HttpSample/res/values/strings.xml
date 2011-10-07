@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HttpSample!</string>
+    <string name="app_name">HttpSample</string>
+    <string name="connect_http">HTTP通信</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<!-- TODO 【HTTP通信①】 Buttonを追加する -->
+	<Button
+		android:layout_height="wrap_content"
+		android:id="@+id/button_connect_http"
+		android:text="@string/connect_http"
+		android:layout_width="fill_parent"
+		android:onClick="onClickButton"></Button>
+
+	<!-- TODO 【HTTP通信②】 TextViewを追加する -->
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/text_content"></TextView>
+</LinearLayout>

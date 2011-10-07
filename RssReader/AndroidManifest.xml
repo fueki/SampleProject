@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="jp.oesf.mtgeduwg.training.rssreader" android:versionCode="1"
+	android:versionName="1.0">
+	<application android:icon="@drawable/icon" android:label="@string/app_name"
+		android:debuggable="true">
+		<activity android:label="@string/app_name" android:name="RssListActivity">
+
+		</activity>
+
+
+		<activity android:label="@string/detail_page_title"
+			android:name="DetailActivity">
+		</activity>
+
+
+		<activity android:name="RssReaderActivity" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"></action>
+				<category android:name="android.intent.category.LAUNCHER"></category>
+			</intent-filter>
+		</activity>
+
+
+<receiver android:name="RegisterServiceStarter">
+<intent-filter>
+<action android:name="android.intent.action.BOOT_COMPLETED"></action>
+</intent-filter>
+</receiver>
+<service android:name="RegisterService"></service>
+
+<provider android:authorities="jp.oesf.mtgeduwg.training.rssreader" android:name="RssProvider"></provider>
+</application>
+    <uses-sdk android:minSdkVersion="7" />
+    
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+</manifest> 

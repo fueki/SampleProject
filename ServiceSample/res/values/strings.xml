@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ServiceSample!</string>
+    <string name="app_name">ServiceSample</string>
+    <string name="service_off">Service OFF</string>
+    <string name="service_on">Service ON</string>
+    <string name="toast">Toast</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, ListSample!</string>
+	<string name="app_name">ListSample</string>
+	<string-array name="titles">
+		<item>柴犬</item>
+		<item>北海道犬</item>
+		<item>甲斐犬</item>
+		<item>紀州犬</item>
+		<item>土佐犬</item>
+		<item>四国犬</item>
+		<item>秋田犬</item>
+		<item>縄文犬</item>
+		<item>琉球犬</item>
+		<item>川上犬</item>
+		<item>薩摩犬</item>
+		<item>美濃柴</item>
+		<item>山陰柴</item>
+		<item>まめしば</item>
+	</string-array>
+	<string-array name="summaries">
+		<item>日本人の心。日本犬の中で唯一の小型犬。</item>
+		<item>別名アイヌ犬。純粋和犬とは別種とする考え方も</item>
+		<item>虎毛カコイー！中型と小型のあいだの大きさ</item>
+		<item>白が多い。巻尾より差し尾が多い</item>
+		<item>土佐闘犬。マスティフやブルドッグ、グレート・デーンなどを配し作られた犬</item>
+		<item>ニホンオオカミと間違われることも！</item>
+		<item>日本犬唯一の大型犬。、「秋田マタギ」、マタギ犬。ハチー！</item>
+		<item>土着の日本犬</item>
+		<item>縄文時代以来の古い犬の形質を残すとされる</item>
+		<item>長野県の天然記念物</item>
+		<item>西郷隆盛の愛犬</item>
+		<item>美濃犬、飛騨柴とも</item>
+		<item>因幡犬がベース。差し尾、晩成型。飼えば飼うほど形が変わる？！</item>
+		<item>小型の柴犬の愛称。JKCや日本犬保存会には「豆柴」という血統書は存在しない</item>
+	</string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- TODO "HTTP通信"文字列を定義する -->
+    <string name="connect_http">HTTP通信</string>
+    <string name="app_name">HttpSample</string>
+</resources>

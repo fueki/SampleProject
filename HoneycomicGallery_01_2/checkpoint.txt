@@ -1,0 +1,6 @@
+1. アクションバーの作成
+-layoutの作成
+
+-private View actionBarView;
+-onCreateで初期化
+

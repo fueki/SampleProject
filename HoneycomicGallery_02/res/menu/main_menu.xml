@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:showAsAction="ifRoom" android:icon="?attr/menuIconCamera" android:title="Camera" android:id="@+id/camera"></item>
+    <item android:showAsAction="ifRoom|withText" android:icon="?attr/menuIconToggle" android:title="Toggle Titles" android:id="@+id/toggleTitles"></item>
+    <item android:title="Day/Night" android:id="@+id/toggleTheme" android:showAsAction="never"></item>
+    <item android:showAsAction="never" android:title="Show a dialog" android:id="@+id/showDialog"></item>
+    <item android:showAsAction="never" android:title="Show a basic nitification" android:id="@+id/showStandardNotification"></item>
+    <item android:showAsAction="never" android:title="Show a custom notification" android:id="@+id/showCustomNotification"></item>
+    
+</menu>

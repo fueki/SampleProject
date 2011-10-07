@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RssReaderActivity!</string>
+    <string name="app_name">RssReaderActivity</string>
+    <string name="menu_add_label">Rss取得</string>
+</resources>

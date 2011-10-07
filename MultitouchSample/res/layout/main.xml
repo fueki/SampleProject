@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<jp.android.multitouch.ScalableView1
+		android:scaleType="matrix" android:fadeScrollbars="true" android:id="@+id/ImageView01"
+		android:clickable="true" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:focusableInTouchMode="true">
+	</jp.android.multitouch.ScalableView1>
+
+</LinearLayout>

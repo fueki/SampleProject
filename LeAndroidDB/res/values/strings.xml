@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LeAndroidDB!</string>
+    <string name="app_name">LeAndroidDB</string>
+    <string name="search">検索</string>
+    <string name="notdata">データがありません</string>
+</resources>

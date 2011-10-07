@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">DatabaseSample</string>
+<string name="search">検索</string>
+<string name="add">登録</string>
+<string name="name">Name</string>
+<string name="value">Value</string>
+<string name="empty">データがありません</string>
+<string name="edit">修正</string>
+<string name="update">更新</string>
+<string name="delete">削除</string>
+</resources>

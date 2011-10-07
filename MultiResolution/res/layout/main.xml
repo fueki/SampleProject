@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_width="match_parent"><Button android:id="@+id/Button01" android:layout_height="wrap_content" android:text="1" android:layout_width="match_parent" android:layout_weight="1"></Button><Button android:id="@+id/Button02" android:layout_height="wrap_content" android:layout_weight="1" android:text="2" android:layout_width="match_parent"></Button><Button android:id="@+id/Button03" android:layout_height="wrap_content" android:layout_weight="1" android:text="3" android:layout_width="match_parent"></Button>
+<Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/Button04" android:text="4" android:layout_weight="1"></Button>
+<Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/Button05" android:text="5" android:layout_weight="1"></Button>
+</LinearLayout>
+
+
+
+
+
+
+
+<LinearLayout android:id="@+id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content"><ImageView android:id="@+id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/droid" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"></ImageView><ImageView android:id="@+id/ImageView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/droid_nodpi" android:layout_marginRight="10dp"></ImageView><ImageView android:id="@+id/ImageView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/droid_scaling"></ImageView>
+</LinearLayout>
+
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/px" android:textSize="16px"></TextView>
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sp" android:textSize="16sp"></TextView>
+<TextView android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dp" android:textSize="16dp"></TextView>
+</LinearLayout>

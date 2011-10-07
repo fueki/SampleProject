@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:weightSum="1">
+	<TableLayout android:id="@+id/tableLayout1"
+		android:layout_height="wrap_content" android:layout_width="match_parent"
+		android:stretchColumns="0">
+		<TableRow android:id="@+id/tableRow1" android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<EditText android:layout_width="wrap_content" android:hint="フリーワード検索"
+				android:layout_height="wrap_content" android:id="@+id/editText1"></EditText>
+			<Button android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:id="@+id/button1"
+				android:text="検索"></Button>
+		</TableRow>
+	</TableLayout>
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_height="wrap_content" android:layout_width="match_parent"
+		android:orientation="vertical">
+
+
+		<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+			android:id="@+id/layoutswitcher" android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="vertical">
+				<LinearLayout android:id="@+id/linearLayout1"
+					android:layout_height="match_parent" android:layout_width="wrap_content"
+					android:layout_weight="1" android:orientation="horizontal">
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s1" android:id="@+id/imageView1"
+						android:layout_weight="1" android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s2" android:id="@+id/imageView4"
+						android:layout_weight="1" android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s3" android:layout_weight="1" android:id="@+id/imageView5"
+						android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s4" android:layout_weight="1" android:id="@+id/imageView6"
+						android:layout_width="wrap_content"></ImageView>
+				</LinearLayout>
+				<LinearLayout android:id="@+id/linearLayout1"
+					android:layout_height="match_parent" android:layout_width="wrap_content"
+					android:layout_weight="1" android:orientation="horizontal">
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s1" android:id="@+id/imageView1"
+						android:layout_weight="1" android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s2" android:id="@+id/imageView4"
+						android:layout_weight="1" android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s3" android:layout_weight="1" android:id="@+id/imageView5"
+						android:layout_width="wrap_content"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s4" android:layout_weight="1" android:id="@+id/imageView6"
+						android:layout_width="wrap_content"></ImageView>
+				</LinearLayout>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="fill_parent">
+				<LinearLayout android:id="@+id/linearLayout5"
+					android:layout_height="match_parent" android:layout_width="wrap_content"
+					android:layout_weight="1" android:orientation="horizontal">
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s9" android:id="@+id/imageView2"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s10" android:id="@+id/imageView11"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s11" android:id="@+id/imageView12"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s12" android:id="@+id/imageView13"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+				</LinearLayout>
+			</LinearLayout>
+			<LinearLayout android:id="@+id/linearLayout11"
+				android:layout_width="fill_parent" android:layout_height="fill_parent">
+				<LinearLayout android:id="@+id/linearLayout9"
+					android:layout_height="match_parent" android:layout_weight="1"
+					android:layout_width="wrap_content" android:orientation="horizontal">
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s17" android:id="@+id/imageView12"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s18" android:id="@+id/imageView13"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s19" android:id="@+id/imageView14"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+					<ImageView android:layout_height="wrap_content"
+						android:src="@drawable/s20" android:id="@+id/imageView15"
+						android:layout_width="wrap_content" android:layout_weight="1"></ImageView>
+				</LinearLayout>
+			</LinearLayout>
+		</ViewFlipper>
+
+
+
+	</LinearLayout>
+	<Button android:id="@+id/button2" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:text="MORE CHECK!"></Button>
+	<LinearLayout android:id="@+id/linearLayout2"
+		android:layout_height="wrap_content" android:orientation="horizontal"
+		android:layout_width="fill_parent">
+		<Button android:id="@+id/button3" android:layout_height="wrap_content"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:text="マイカート"></Button>
+		<Button android:id="@+id/button4" android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:layout_weight="1"
+			android:text="マイページ"></Button>
+	</LinearLayout>
+	<TextView android:layout_height="wrap_content" android:id="@+id/textView3"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="Search Menu" android:background="#770000"
+		android:layout_width="fill_parent"></TextView>
+	<ListView android:layout_width="match_parent" android:id="@+id/listView"
+		android:layout_height="184dp"></ListView>
+	<TextView android:layout_height="wrap_content" android:id="@+id/textView4"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:background="#770000" android:bufferType="normal" android:text="Information"
+		android:layout_width="fill_parent"></TextView>
+	<LinearLayout android:id="@+id/linearLayout3"
+		android:layout_height="wrap_content" android:layout_width="match_parent"
+		android:orientation="horizontal">
+		<TextView android:id="@+id/textView5" android:layout_height="wrap_content"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:text="お問い合わせ" android:gravity="center" android:padding="3dp"></TextView>
+		<TextView android:id="@+id/textView6" android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:layout_weight="1"
+			android:text="対応機種" android:gravity="center" android:padding="3dp"></TextView>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/linearLayout4"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:orientation="horizontal">
+		<TextView android:id="@+id/textView7" android:layout_height="wrap_content"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:padding="3dp" android:text="利用規約" android:gravity="center"></TextView>
+		<TextView android:id="@+id/textView8" android:layout_height="wrap_content"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:padding="3dp" android:gravity="center" android:text="運営会社"></TextView>
+	</LinearLayout>
+	<TextView android:id="@+id/textView9" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:text="※「デコメ」「デコメール」は（株）NTTドコモの登録商品です。"
+		android:padding="3dp"></TextView>
+	<TextView android:layout_width="fill_parent"
+		android:layout_weight="1" android:id="@+id/textView10" android:text="I-FREEK INC.
+"
+		android:gravity="center" android:layout_height="match_parent"></TextView>
+</LinearLayout>

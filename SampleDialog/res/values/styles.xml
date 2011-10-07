@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="ButtonOriginal">
+		<item name="android:background">@drawable/button_original</item>
+		<item name="android:focusable">true</item>
+		<item name="android:clickable">true</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+		<item name="android:gravity">center_vertical|center_horizontal</item>
+	</style>
+
+	<style name="PlayerButton">
+		<item name="android:background">#00000000</item>
+	</style>
+	<style name="PlayerButton.Play">
+		<item name="android:src">@drawable/ic_media_play</item>
+	</style>
+	<style name="PlayerButton.Pause">
+		<item name="android:src">@drawable/ic_media_pause</item>
+	</style>
+	<style name="PlayerButton.Rew">
+		<item name="android:src">@drawable/ic_media_rew</item>
+	</style>
+	<style name="PlayerButton.FF">
+		<item name="android:src">@drawable/ic_media_ff</item>
+	</style>
+	<style name="PlayerButton.Close">
+		<item name="android:src">@drawable/ic_media_close</item>
+	</style>
+
+</resources>

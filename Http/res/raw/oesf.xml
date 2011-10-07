@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open Embedded Software Foundation</title>
+    <link>http://www.oesf.jp/</link>
+    <description></description>
+    <lastBuildDate>Sun, 24 Oct 2010 00:47:32 +0000</lastBuildDate>
+    <docs>http://backend.userland.com/rss/</docs>
+    <generator>XOOPS</generator>
+    <category>News</category>
+    <managingEditor>admin@oesf.jp</managingEditor>
+    <webMaster>admin@oesf.jp</webMaster>
+    <language>ja</language>
+
+        <image>
+      <title>Open Embedded Software Foundation</title>
+      <url>http://www.oesf.jp/images/logo.gif</url>
+      <link>http://www.oesf.jp/</link>
+      <width>144</width>
+      <height>100</height>
+    </image>
+    
+        <item>
+      <title>【エスアイインフォジェニック】「OESF公認 Androidアプリケーション開発入門」トレーニングコースを開始</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=171</link>
+      <description>OESF会員のエスアイインフォジェニックは「OESF公認 Androidアプリケーション開発入門」トレーニングコースを11月から開始します。
+現在オープニングキャンペーンが開催されています。
+
+開催スケジュール等は
+http://www.oesf.jp/modules/training/index.php?content_id=6
+をご覧ください。
+
+また、エスアイインフォジェニック開催のトレーニングに関しては
+http://www.sig-c.co.jp/html/business/seminer_top.html
+をご覧ください。</description>
+      <pubDate>Sat, 23 Oct 2010 15:11:25 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=171</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>OESF Birds of a Feather Meeting in Taipei開催</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=170</link>
+      <description>OESF台湾オフィスでは、TCA (Taipei Computer Association)と共同で、Birds of a Feather Meeting in Taipeiを11月9日に開催いたします。
+Embedded Masterの最新情報や、拡大するAndroidマーケットに関して、多くのプレゼンエーションを予定しています。
+OESF会員と参加者の皆様とのビジネスマッチングの場となれば幸いです。
+
+開催概要とお申し込みは
+http://www.oesf.jp/en/modules/eguide/event.php?eid=5
+
+皆様のご参加をお待ちしております。</description>
+      <pubDate>Thu, 21 Oct 2010 16:41:55 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=170</guid>
+      <category>イベント</category>
+          </item>
+        <item>
+      <title>OESFフューチャーシステムズ・ワーキンググループ協賛セミナーのご案内</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=169</link>
+      <description>フューチャーシステムズ・ワーキンググループ（FS-WG）が推進する近未来のAndroidベースの要素技術と実システム像の策定に向けた活動の一環としまして、この度、OESFでは(株)ニコン 映像カンパニーの大槻正氏をお迎えしてプライベートセミナーを開催する運びとなりました。
+
+大槻氏はソニーのエンターテインメントロボット「AIBO」の生みの親（開発・事業化責任者）として広く日本中に知られていらっしゃいますが、この開発の時に「情熱を持ったプロフェッショナルになってほしい。」というメッセージを若い技術者達に投げかけられました。
+
+その後、移籍先のニコンではデジタルフォトの未来像を実現する独自の画像共有サイト「my Picturetown」開発のプロジェクトリーダーとしてご活躍され、現在はAndroidを利用した新たな製品開発にも携わり、今もなお、熱い情熱をもってご活躍されていらっしゃいます。
+
+今回のセミナーでは、事業責任者、そして現役のエンジニアとして、下記の要綱にてFS-WGの進める先進的統合化システム「DENSUKEプロジェクト」の開発・事業化コンセプトに大きなご賛同を頂き、AIBO開発に伴う他では今まで明かされなかったエピソードなども交えた貴重なご講演をいただくことになりました。
+
+ご多忙のことと存じますが、会員の皆様にはぜひとも万障お繰り合わせの上、ご参加下さいますよう、宜しくお願い申し上げます。
+
+
+記
+
+日時：　2010年11月10日（水） 開演13時30分
+（開場13時、終了15時予定）
+
+参加費：　無料
+
+講演者：　大槻 正 様
+(株)ニコン 映像カンパニー（新規事業開発担当）
+元 ソニー(株）エンタテイメントロボットカンパニー、
+ディピュティプレジデント（アイボ開発責任者）
+
+講演題目
+「今明かされるAIBOへの道。そして未来のシステム。」
+
+場所：　池袋サンシャインシティ文化会館7階701号
+
+会場へのアクセス等、詳細は下記サイトをご覧ください。
+http://fswg.oesf.biz/seminar/
+
+お申込先：　FS-WG新井まで
+（会場の都合でお席には限りがございますのでお早めに。）</description>
+      <pubDate>Thu, 21 Oct 2010 16:33:09 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=169</guid>
+      <category>イベント</category>
+          </item>
+        <item>
+      <title>【リーディング・エッジ社】「OESF公認 Androidアプリケーション開発入門」トレーニングコースを開始</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=168</link>
+      <description>リーディング・エッジ社は「OESF公認 Androidアプリケーション開発入門」トレーニングコースを11月から開始します。
+これにより、首都圏3箇所でAndroidのトレーニングが受けられることとなりました。
+また、10月開催から、受講料も引き下げられ、多くの方にご利用いただけると思います。
+
+開催スケジュール等は
+http://www.oesf.jp/modules/training/index.php?content_id=6
+をご覧ください。
+
+また、リーディングエッジ社開催のトレーニングに関しては
+http://www.leadinge.co.jp/training/index.html
+をご覧ください。</description>
+      <pubDate>Thu, 21 Oct 2010 05:26:54 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=168</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>「Androidアプリケーション技術者認定試験ベーシック　対策実践問題集」予約受付開始</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=167</link>
+      <description>2010年11月にAndroid関連技術者に向けた認定試験がスタートします。本書は，その中の「Androidアプリケーション技術者認定試験ベーシック」に向けた，初めての問題集です。試験範囲である「Android技術スキル標準」を網羅する210問の模擬問題を収録しています。これらを解きながら解説を読むことで，Androidの基本を学びながら試験対策を行えます。OESF監修による，「Androidアプリケーション技術者認定試験」対策本の決定版。Androidに携わる方必携の一冊です。
+
+【主な特長】
+出題範囲をカバーする210問！
+OESF公認「Android技術スキル標準」をカバーする210問の模擬問題を収録
+Androidアプリケーション開発の基礎知識を習得！
+問題を解き，解説を読むことで，試験対策はもちろん，Androidアプリケーション開発に必要な基礎知識を習得できます。巻末に覚えておきたい用語集も収録
+OESFによる監修！
+OESF公認「Android技術者認定試験制度」（OESF Authorized Certification Engineer for Android：ACE）の実施団体「OESF」による監修
+
+予約の受付を開始いたしました。是非この機会にご購入ください。
+http://ec.nikkeibp.co.jp/item/books/189150.html</description>
+      <pubDate>Wed, 20 Oct 2010 09:34:33 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=167</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>【リーディング・エッジ社】Androidが技術者に提供する新たな可能性 〜今、採用したい人材とは？〜</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=166</link>
+      <description>OESF会員のリーディング・エッジ社では、「Androidが技術者に提供する新たな可能性 〜今、採用したい人材とは？〜」と題したセミナーを開催いたします。
+リーディング・エッジ社では、「これからAndroidエンジニアになりたい」、「オープンソースエンジニアになりたいが、何をしていけばいいのかわからない」、「企業に入るために今どのようなことが求められているか知りたい」方々のため、およびAndroidで事業展開を予定している、マネージメント層の方にも有用なセミナーです。
+是非、、ご参加ください。
+
+なお、詳しくは以下のWebサイトをご覧ください。
+
+http://www.leadinge.co.jp/seminar/seminar01.html
+http://www.leadinge.co.jp/seminar/index.html</description>
+      <pubDate>Thu, 14 Oct 2010 04:02:02 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=166</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>マーケットプレイス構築セミナー</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=165</link>
+      <description>2010年10月4日に開催されましたマーケットプレイス構築セミナー関連の資料等を公開いたしました。
+OESFがEmbedded Master 2 で公開するMarketPlace SDKの概要からシステムの構築まで、解説しております。
+
+セミナー会場のスナップ
+http://www.oesf.jp/modules/webphoto/index.php/category/37/
+
+ビデオ
+http://www.oesf.jp/modules/webphoto/index.php/category/38/
+
+配布資料
+http://www.oesf.jp/modules/download/index.php?cid=34
+
+是非、ご利用ください。</description>
+      <pubDate>Fri, 08 Oct 2010 15:19:22 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=165</guid>
+      <category>What&#039;s New</category>
+          </item>
+        <item>
+      <title>【 ミップス・テクノロジーズ】 「 MIPSテクニカル・セミナー2010」開催のご案内</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=164</link>
+      <description>MIPSエコシステムパートナーであるDMP社が講演！
+セミナー受講者全員に、同社が主催するKhronos Group公認のOpenGL
+ESトレーニングおよび、Android SDKに対応したOpenGL ESの自己学習
+ツール「Android 3Dグラフィックスラーニングキット」の
+無料お試し版を配布！！
+
+★　今すぐ申し込む　→　http://www.mips.jp/news_events/seminar/index.php　★
+
+● 開催概要 ●
+日時：　2020年10月13日（水）　13：30〜17：00
+場所：　東京コンファレンスセンター品川 403号室
+http://www.tokyo-cc.co.jp/access.html
+定員：　各日50名
+受講申込締め切り：　2010年10月11日（月）12:00PM
+＊定員になり次第締め切らせていただきます
+受講料：　無料
+
+● セミナー・プログラム（予定） ●
+13:00 -          開場
+13:30 - 14:00    MIPS Update / ミップス・テクノロジーズ
+14:00 - 14:50    パートナー・プレゼンテーション1  / Chips &amp; Media
+14:50 - 15:00    小休憩
+15:00 - 15:50    DMP グラフィックスIPソリューション
+/ 株式会社ディジタルメディアプロフェッショナル
+15:50 - 16:50    MIPS最新コア　MIPS32 1074K
+/ ミップス・テクノロジーズ　マーク・スロンドソン
+
+● 講演内容（予定） ●
+「MIPS Update」／ミップス・テクノロジーズ
+製品、ソフトウェアおよびAndroid on MIPSの最新情報をご紹介します。
+
+「DMP グラフィックスIPソリューション」
+/株式会社ディジタルメディアプロフェッショナル
+低消費電力OpenGLES対応2D/3DグラフィックスIP  “PICA”、”SMAPH-S”
+及びOpenVG対応2DベクターグラフィックスIP ”SMAPH-F” をご紹介とともに、
+組み込みSoCでのグラフィックスIP導入の”コツ”を事例と共に交えてお話しします。
+また、DMPが主催するKhronos Group公認のOpenGL ESトレーニングおよび、
+Android SDKに対応したOpenGL ESの自己学習ツール「Android 3Dグラフィックス
+ラーニングキット」についてのご紹介をいたします。
+
+「MIPS32 1074K Superscalar Coherent Processing System (CPS)
+Performance for the Masses 」/ ミップス・テクノロジーズ
+MIPSの最新コアとなるMIPS32 1074K の詳細を初公開します。
+
+● 事前登録はこちらから ●
+下記サイトよりご登録ください。
+http://www.mips.jp/news_events/seminar/index.php
+
+*お申し込みは定員になり次第締め切らせていただきます。
+*競合他社からのお申し込みはお断りする場合がございます。悪しからずご了承ください。
+
+ ━ セミナーに関するお問い合わせ先 ━━━━
+ ミップス・テクノロジーズ　担当：　古田
+ TEL: 03-5733-9544   FAX: 03-5733-9545
+ E-mail: info@mips.jp　　　　　　　　　　
+ URL: http://www.mips.jp　　　　　　　　　　
+ ━━━━━━━━━━━━━━━━━━━━━</description>
+      <pubDate>Fri, 01 Oct 2010 01:48:10 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=164</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>【シグマデザインズ】CEATECにて Flash10.1をデモ</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=163</link>
+      <description>会員のシグマデザインはCEATECにあわせて、近隣のホテルザマンハッタン708で、Android、Flash10.1のデモを行います。
+また同時に、同ホテル、プリマベーラにてZwaveセミナーも開催します。
+ご興味のある方は是非ご参加ください。
+
+開催場所；ホテルザマンハッタン
+http://www.the-manhattan.co.jp/accessmap/
+
+開催日：10月7日（木）
+
+お問い合わせ：
+Makoto Ogawa
+Sigma Designs Japan K.K.
+Phone : 045-470-5877
+ogawa@sdesigns.com
+
+セミナー内容
+　13:00　開場、受付開始（お名刺を一枚ご用意ください。）
+　13:30　セミナーイントロダクション　Sigma Designs社社長Thinh Tran
+　13:40　Z-wave Overview　Sigma　Raoul
+　14:20　Schlage社講演
+　　休憩
+　15:00　NTTドコモ社講演
+　15:30　住友電工ネットワークス講演
+　　質疑応答
+　16:15　セミナー終了</description>
+      <pubDate>Wed, 29 Sep 2010 03:09:24 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=163</guid>
+      <category>会員ニュース</category>
+          </item>
+        <item>
+      <title>Androidのマーケットプレース構築セミナー</title>
+      <link>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=162</link>
+      <description>OESFが提供する Embedded Master2 には、新しい機能である Marketplace SDK が組み込まれております。
+この機能は、Androidに向けたサービスを容易に構築できるツールキットです。
+
+Marketplace SDK を広く利用して頂くために、今回は、Marketplace SDK の特長や利用方法に関するセミナー を開催します。
+是非、みなさんのご参加をお待ちしています。
+
+詳しくは、以下のページをご参照ください。
+
+http://www.oesf.jp/modules/eguide/event.php?eid=9#form</description>
+      <pubDate>Fri, 17 Sep 2010 10:15:24 +0000</pubDate>
+      <guid>http://www.oesf.jp/modules/news/index.php?page=article&amp;storyid=162</guid>
+      <category>イベント</category>
+          </item>
+      </channel>
+</rss>

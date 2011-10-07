@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SampleDataBaseUpdate!</string>
+    <string name="app_name">SampleDataBaseUpdate</string>
+    <string name="serch">検索</string>
+    <string name="insert">登録</string>
+    <string name="name_insert">Nama</string>
+    <string name="value_insert">Value</string>
+    <string name="db_insert">登録</string>
+    <string name="ok_insert">登録完了</string>
+    <string name="empty">データがありません</string>
+</resources>

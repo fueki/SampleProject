@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+<PreferenceCategory>
+<CheckBoxPreference android:key="boolean_value"
+android:title="@string/boolean_title"
+android:summary="@string/boolean_summary"
+></CheckBoxPreference>
+<EditTextPreference android:key="string_value" 
+android:title="@string/string_title"
+android:summary="@string/string_summary"
+></EditTextPreference>
+
+</PreferenceCategory>
+
+</PreferenceScreen>
+
+

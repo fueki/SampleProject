@@ -1,0 +1,61 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: zJ32zG6QwvJUd7Nl3odbDYIB5Ck=
+
+Name: assets/busybox2
+SHA1-Digest: S7eqJO9zDflMRqTOq9TV9tb9UDU=
+
+Name: assets/ratc
+SHA1-Digest: WGXydIAjbnaKnCxa+UYfj0guBpM=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: B/JFrDwE15/U0dUbLDnSZa1nokc=
+
+Name: assets/busybox1
+SHA1-Digest: jOpuHZ1/ucEIe344jYZlFD/DYaA=
+
+Name: assets/permrootme.sh
+SHA1-Digest: GEWNbX4YpwzlgDC+gxTuqvLK6fE=
+
+Name: assets/reboot
+SHA1-Digest: zl2layNw3NvhqRNOo0ncivV97xM=
+
+Name: resources.arsc
+SHA1-Digest: joZOjE5IpnQCSAhFXRVjpRlk4lE=
+
+Name: assets/su
+SHA1-Digest: y4o9jstDL1ijR9VNETc7W3fLfOs=
+
+Name: classes.dex
+SHA1-Digest: CZo7CfZ7R9SiPOkF4QrlyTUnZJY=
+
+Name: res/layout/main.xml
+SHA1-Digest: jsMmI5NwdMYg/IgIHi4I5brGhIA=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: aOUCFl1bb0N/nX8dSZ47J+Nu6RQ=
+
+Name: assets/wpthis-GENERIC.ko
+SHA1-Digest: HZmU2mvlqchxf8iKQY3GFf+WOLA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: buiRAmgbZOyPlemqkRuBu7vSN5o=
+
+Name: lib/armeabi/libnative.so
+SHA1-Digest: Wk67Q54b1xC2KYH8+1fnBIHNQug=
+
+Name: assets/Superuser.apk
+SHA1-Digest: 8wL7NfzSHwRp4+OnHuKSCVQP5Y8=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7poMEKeetIxJdvnYO19dXNYNaDQ=
+
+Name: assets/rootme.sh
+SHA1-Digest: 5Kp0RP9/2+kyRcRmtCUwmkD1qus=
+
+Name: assets/unroot.sh
+SHA1-Digest: EjCTveATdnH51hTo7Or0vYvcly8=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Uvuvo24AIBIzD5U3zlmk2S8c3Ro=
+

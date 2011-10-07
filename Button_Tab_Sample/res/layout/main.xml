@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/layout_root"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical">
+	<Button
+		android:text="Button"
+		android:id="@+id/button1"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"></Button>
+	<FrameLayout
+		android:layout_width="fill_parent"
+		android:layout_weight="1"
+		android:layout_height="wrap_content">
+		<TabHost
+			android:id="@android:id/tabhost"
+			android:background="#ff0000"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<LinearLayout
+				android:background="#ff0000"
+				android:orientation="vertical"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content">
+				<TabWidget
+					android:id="@android:id/tabs"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content" />
+				<FrameLayout
+					android:id="@android:id/tabcontent"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content">
+
+					<TextSwitcher
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"></TextSwitcher>
+				</FrameLayout>
+			</LinearLayout>
+		</TabHost>
+		</FrameLayout>
+	<Button
+		android:layout_width="fill_parent"
+		android:id="@+id/button2"
+		android:layout_height="wrap_content"
+		android:text="Button"></Button>
+</LinearLayout>

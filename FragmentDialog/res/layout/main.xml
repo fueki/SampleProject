@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:gravity="center_horizontal"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+   <LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="horizontal"
+ android:layout_width="match_parent"
+ android:layout_height="wrap_content">       
+    <TextView               
+            android:textSize="20sp"
+            android:text = "Location:" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"/>
+         <Spinner 
+            android:id="@+id/location_spinner"
+            android:layout_width = "450sp"
+            android:layout_height="wrap_content"/>
+            <!-- fill out the data on the package total cost etc -->    
+    </LinearLayout>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">    
+               <Button android:id="@+id/location_dlg_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Okay"/>
+                   <Button android:id="@+id/location_dlg_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"/>
+                   <Button android:id="@+id/location_dlg_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create new..."/>
+    </LinearLayout>
+</LinearLayout>

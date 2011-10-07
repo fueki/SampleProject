@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TandDActivity!</string>
+    <string name="app_name">TandD: OESF RSS Reader</string>
+    <string name="detailtab">詳細：</string>
+    <string name="link">リンク：</string>
+    <string name="date">日付：</string>
+    <string name="update">更新</string>
+</resources>

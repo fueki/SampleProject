@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SharedPreferenceSample!</string>
+    <string name="app_name">PreferenceSample</string>
+    <string name="save_button">保存</string>
+    <string name="get_data">データ取得</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:gravity="center"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<!-- リスト -->
+	<LinearLayout
+		android:orientation="vertical"
+		android:gravity="center"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:weightSum="1">
+
+		<!-- ギャラリー中のインデックス -->
+		<LinearLayout
+			android:orientation="horizontal"
+			android:gravity="center"
+			android:layout_marginBottom="8dp"
+			android:layout_gravity="center"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+			<!-- インデックス -->
+
+			<!-- 総数 -->
+			<TextView android:layout_height="wrap_content" android:textStyle="bold" android:textSize="24dp" android:layout_width="wrap_content" android:textColor="#FFFFFF" android:id="@+id/content_name" android:text="Name"></TextView>
+		</LinearLayout>
+
+		<!-- ギャラリー -->
+		<jp.giogio.individualjojoline.widget.CoverFlowGallery
+			android:id="@+id/content_list"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"/>
+
+		<!-- タイトル -->
+		<TextView
+			android:id="@+id/content_title"
+			android:text="Title"
+			android:textColor="#FFFFFF"
+			android:textStyle="bold"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:textSize="20dp"/>
+	</LinearLayout>
+</LinearLayout>

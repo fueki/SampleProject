@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/busybox2
+SHA1-Digest: lM7evjwz+QcMEgjd40h9NaRJAXI=
+
+Name: assets/ratc
+SHA1-Digest: vEG4Kug2YZBtdEW1z0UfIfJ4hGo=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: F95S/IMoWSzL04m+xLN7He5/n8I=
+
+Name: assets/busybox1
+SHA1-Digest: 33xMmJLh5SHZEOXJsUTcXJ6B/TQ=
+
+Name: assets/permrootme.sh
+SHA1-Digest: sG+ih9txGzfUXz/D6fdpr+UIV3w=
+
+Name: assets/reboot
+SHA1-Digest: jvtURm3cQZSdMpetI9UDPG2wWLE=
+
+Name: resources.arsc
+SHA1-Digest: f1YeShfXObQzwbQso1Ar6y8TZKI=
+
+Name: assets/su
+SHA1-Digest: jt++j0Y063StaUbZSsn33XkWcqM=
+
+Name: classes.dex
+SHA1-Digest: nKZNBaezwgpLUb+8Yw7O9JZfOtg=
+
+Name: res/layout/main.xml
+SHA1-Digest: /fwf26XQs+cYaavjV1zw+QjkRPw=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: KZVmBrIpixzqGx4pBX8XKLw8zPk=
+
+Name: assets/wpthis-GENERIC.ko
+SHA1-Digest: s30iYNRjqBmpAxDJFhkP9ynA3KE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GkdqUMM2+y9vytM1esssgUfGBjU=
+
+Name: lib/armeabi/libnative.so
+SHA1-Digest: 4/+QdSqLcRW6VSst9R/4FOo9q+Q=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: KZVmBrIpixzqGx4pBX8XKLw8zPk=
+
+Name: assets/Superuser.apk
+SHA1-Digest: dHnhH03xmMdDvUMO9U+UmZaQxzs=
+
+Name: assets/rootme.sh
+SHA1-Digest: PL8DrAmWJT+5w03d/fMa4GKBXYM=
+
+Name: assets/unroot.sh
+SHA1-Digest: 9e/9kCAeHMmSwy3JVpSmwBDrlg0=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: KZVmBrIpixzqGx4pBX8XKLw8zPk=
+

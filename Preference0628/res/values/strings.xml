@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Preference0628Activity!</string>
+    <string name="app_name">Preference0628</string>
+    <string name="search">検索</string>
+    <string name="getdata">データ取得</string>
+</resources>

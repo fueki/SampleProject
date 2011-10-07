@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.hidecheck.honeycomic.FitCenterFrameLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:clickable="true">
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/image"
+        android:duplicateParentState="true"
+        android:background="@drawable/picture_frame"
+        android:layout_gravity="center"></ImageView>
+
+</view>

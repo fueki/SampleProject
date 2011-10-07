@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ServiceSampleActivity!</string>
+    <string name="app_name">ServiceSample</string>
+    <string name="service_off">Service Off</string>
+    <string name="service_on">Service On</string>
+    <string name="toast">Toast</string>
+</resources>

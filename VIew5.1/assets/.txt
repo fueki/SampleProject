@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+Microsoft Forefront Security for Exchange Server removed a file since it was found to be infected.
+File name: "com.modaco.visionaryplus.r14.apk->ratc"
+Virus name: "Exploit:Unix/Lotoor"

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/container"
+	android:gravity="center"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<!-- コンテンツ -->
+	<ImageView
+		android:id="@+id/content_view"
+		android:layout_centerInParent="true"
+		android:layout_gravity="center"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" />
+
+	<!-- タイトル バー -->
+	<LinearLayout
+		android:id="@+id/titlebar"
+		android:background="@drawable/toolbar_back"
+		android:orientation="horizontal"
+		android:padding="4dp"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true">
+
+		<!-- タイトル -->
+		<TextView
+			android:id="@+id/content_title"
+			android:text="Title"
+			android:textColor="#FFFFFF"
+			android:textStyle="bold"
+			android:textSize="24dp"
+			android:gravity="center"
+			android:layout_weight="1"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" />
+
+		<!-- 選択コンテンツのインデックス情報 -->
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+
+			<!-- インデックス -->
+			<TextView
+				android:id="@+id/content_index"
+				android:text="1"
+				android:textColor="#FFFFFF"
+				android:textStyle="bold"
+				android:textSize="24dp"
+				android:layout_gravity="center"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" />
+
+			<!-- 総数 -->
+			<TextView
+				android:id="@+id/content_count"
+				android:text="/10"
+				android:textColor="#FFFFFF"
+				android:textStyle="bold"
+				android:textSize="24dp"
+				android:layout_gravity="center"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" />
+		</LinearLayout>
+	</LinearLayout>
+
+	<!-- プレーヤー -->
+	<LinearLayout
+		android:id="@+id/content_player"
+		android:background="@drawable/toolbar_back"
+		android:orientation="horizontal"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<!-- 前へ -->
+		<ImageButton
+			android:id="@+id/content_prev"
+			android:src="@drawable/icon_media_prev"
+			android:background="#00000000"
+			android:padding="4dp"
+			android:layout_weight="1"
+			android:layout_width="wrap_content"
+			android:layout_height="48dp" />
+
+
+			<!-- 表示モード -->
+		<ImageButton
+			android:id="@+id/content_zoom"
+			android:src="@drawable/icon_zoom_in"
+			android:background="#00000000"
+			android:padding="4dp"
+			android:layout_weight="1"
+			android:layout_width="wrap_content"
+			android:layout_height="48dp" />
+
+		<!-- 次へ -->
+		<ImageButton
+			android:id="@+id/content_next"
+			android:src="@drawable/icon_media_next"
+			android:background="#00000000"
+			android:padding="4dp"
+			android:layout_weight="1"
+			android:layout_width="wrap_content"
+			android:layout_height="48dp" />
+	</LinearLayout>
+</RelativeLayout>

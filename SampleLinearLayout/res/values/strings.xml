@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, </string>
+    <string name="app_name">SampleLinearLayout</string>
+    <string name="android">Android</string>
+    <string name="center">中</string>
+    <string name="under">した</string>
+    <string name="avobe">上</string>
+</resources>

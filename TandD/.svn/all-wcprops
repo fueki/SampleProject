@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/283/trunk/TigerAndDragon/TandD
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/257/trunk/TigerAndDragon/TandD/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/272/trunk/TigerAndDragon/TandD/AndroidManifest.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/257/trunk/TigerAndDragon/TandD/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/257/trunk/TigerAndDragon/TandD/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/257/trunk/TigerAndDragon/TandD/.classpath
+END

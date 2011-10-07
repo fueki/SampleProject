@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="list_page_title">一覧</string>
+    <string name="go_to_list_page_button_label">一覧表示</string>
+    
+    
+    
+    
+    
+    <string name="detail_page_title">詳細</string>
+    
+    
+    
+    <string name="ok_dialog_label">完了しました</string>
+    
+    
+    
+    <string name="empty">データがありません</string>
+    
+    
+    
+    <string name="option_menu_add_label">RSS取得</string>
+    
+    
+    
+    
+    
+    
+	 <string name="notification_title">RssReader</string>
+	 <string name="notification_ticker_text">RSS取得できました</string>
+	 <string name="notification_text">RSS取得完了</string>
+</resources>

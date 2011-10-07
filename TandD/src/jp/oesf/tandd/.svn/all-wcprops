@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/282/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd
+END
+TandDActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/284/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/TandDActivity.java
+END
+TandDDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/271/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/TandDDB.java
+END
+AbsLoadingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/284/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/AbsLoadingTask.java
+END
+AddTandDDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/262/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/AddTandDDB.java
+END
+AccessOesf.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/278/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/AccessOesf.java
+END
+GetTandDDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/263/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/GetTandDDB.java
+END
+XmlTestActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/275/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/XmlTestActivity.java
+END
+TandDSQLiteOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/270/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/TandDSQLiteOpenHelper.java
+END
+Analyze_XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/280/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/Analyze_XML.java
+END
+Detail.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/282/trunk/TigerAndDragon/TandD/src/jp/oesf/tandd/Detail.java
+END
